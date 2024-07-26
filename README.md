@@ -18,3 +18,4 @@
 - Send image, text, and emoji
 - Block user
 - Log out
+- Add User
