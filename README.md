@@ -5,11 +5,12 @@
 ### User Authentication
 ![User Authentication](./public/User-Authentication.png)
 
+### After Login
+![After Login](./public/After-Login.png)
+
 ### Block the User
 ![Block the User](./public/Block-the-user.png)
 
-### After Login
-![After Login](./public/After-Login.png)
 
 ## Features
 
